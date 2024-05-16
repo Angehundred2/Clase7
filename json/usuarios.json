@@ -1,0 +1,11 @@
+[
+    {"id": 1, "name":"Frank", "photo": "imagen.jpg", "age": 20, "dni": "12345678A", "civil_status": "Casado"},
+    {"id": 2, "name":"Rogger", "photo": "imagen2.webp", "age": 17, "dni": "87654321B", "civil_status": "Soltero"},
+    {"id": 3, "name":"Luis", "photo": "imagen.jpg", "age": 40, "dni": "56781234C", "civil_status": "Divorciado"},
+    {"id": 4, "name":"Felipe", "photo": "imagen2.webp", "age": 13, "dni": "34567812D", "civil_status": "Soltero"},
+    {"id": 5, "name":"Rosa", "photo": "imagen.jpg", "age": 16, "dni": "23456781E", "civil_status": "Soltera"},
+    {"id": 6, "name":"Miguel", "photo": "imagen2.webp", "age": 20, "dni": "45678123F", "civil_status": "Casado"}
+
+    
+]
+
